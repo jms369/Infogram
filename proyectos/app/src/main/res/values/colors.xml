@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0870DE</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="editText_textColorHint">#FFFFFF</color>
+    <color name="editText_textColorPrimary">#FFFFFF</color>
+    <color name="editText_colorControlNormal">#FFFFFF</color>
+    <color name="editText_colorControlActivated">#FFFFFF</color>
+    <color name="button_textColor">#FFFFFF</color>
+
+    <color name="editText_white">#FFFFFF</color>
+    <color name="editText_black">#000000</color>
+
+    <color name="button_primaryColor">#1E45A9</color>
+
+    <color name="textView_textColor">#FFFFFF</color>
+    <color name="background_cardview">#33000000</color>
+    <color name="textColor_White">#FFFFFF</color>
+</resources>

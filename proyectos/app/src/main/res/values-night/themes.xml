@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Infogram" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Status bar color. -->
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style
+        name="EditTextWhite" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textSize">@dimen/editText_TextSize</item>
+        <item name="android:textColorHint">@color/editText_textColorHint</item>
+        <item name="android:textColorPrimary">@color/editText_textColorPrimary</item>
+        <item name="colorControlNormal">@color/editText_colorControlNormal</item>
+        <item name="colorControlActivated">@color/editText_colorControlActivated</item>
+    </style>
+
+    <style name="RaiseButtonDark" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="android:textColor">@color/button_textColor</item>
+
+    </style>
+</resources>

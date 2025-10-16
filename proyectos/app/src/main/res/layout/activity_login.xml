@@ -84,6 +84,9 @@
                         android:layout_marginTop="@dimen/login_marginTop"
                         android:text="@string/button_text"
                         android:theme="@style/RaiseButtonDark"
+
+                        android:onClick="login"
+
                         />
 
                     <RelativeLayout

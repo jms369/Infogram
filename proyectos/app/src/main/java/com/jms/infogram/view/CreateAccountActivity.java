@@ -1,4 +1,4 @@
-package com.jms.infogram;
+package com.jms.infogram.view;
 
 import android.os.Bundle;
 
@@ -8,6 +8,8 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.jms.infogram.R;
 
 public class CreateAccountActivity extends AppCompatActivity {
 
